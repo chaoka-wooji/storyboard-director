@@ -1,4 +1,4 @@
-# 🎬 Storyboard Director
+# 🎬 Cinematic-Storyboard Skill
 
 > 将故事概要点石成金 —— 从一句话梗概到 AI 可执行的全套分镜脚本，六层金字塔式拆解，覆盖从故事到成片的完整管线。
 
